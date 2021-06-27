@@ -17,7 +17,7 @@
   - [License](#license)
 
   ## Installation
-  To install this application, clone the repository and run npm install to install the dependencies.
+  To install this application, clone the repository and run <code>npm install</code> to install the dependencies.
 
   ## Video-Walkthrough
   A video walkthrough for this application can be found [here.](https://drive.google.com/file/d/1CEKhhiO36a2P9pwKejM-GlfINcalPoIU/view)
